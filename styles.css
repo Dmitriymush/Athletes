@@ -83,6 +83,7 @@ img {
 @media screen and (max-width: 1099px) {
   .people {
     grid-template-columns: repeat(2, 264px);
+    grid-template-rows: repeat(5, 300px);
   }
 }
 
